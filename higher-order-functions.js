@@ -1,5 +1,4 @@
 //Code provided in class
-
 // Simple functions and a loop.
 // Run this file with: node simple-functions.js
 
@@ -24,3 +23,5 @@ doubledNumbers.push(double(numbers[i]));
 
 console.log('Original numbers:', numbers); // [1, 2, 3, 4]
 console.log('Doubled numbers:', doubledNumbers); // [2, 4, 6, 8]
+
+console.log('This will test the first change.');
